@@ -50,11 +50,13 @@ p {
     font-size: 16px;
 }
 
-.hero {
+#hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 800px;
-    width: 100%;
+    text-align: center;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
