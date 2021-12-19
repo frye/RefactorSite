@@ -50,7 +50,8 @@ p {
     font-size: 16px;
 }
 
-/*ID to mnage the hero image of the page.*/
+/*ID to mnage the hero image of the page.
+TODO: Fix the hero image so that it does not lose aspect ratio when scaling the browser window.*/
 #hero {
     display: block;
     margin-left: auto;
